@@ -1,0 +1,14 @@
+Od gotovih asseta koristila :
+ 
+- sve objekte na sceni pored puta
+- sam put kao i prepreke na njemu
+- slike pocetnih scena kao i zvucne efekte
+- auto i helikopter (sami objekti)
+
+
+Top 5 problema na koje sam naisla tokom rada na projektu :
+
+- odgovarajuce kretanje automobila i helikoptera
+- Mini mapa i oznacavanje helikoptera pomocu markera
+- dobro uradjeni sudari
+- pravljenje same scene uz pomoc preuzetih asseta i uredjivanje vizualnog stila
